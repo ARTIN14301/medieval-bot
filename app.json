@@ -1,0 +1,11 @@
+{
+  "name": "Medieval RPG Bot",
+  "description": "یک ربات رول‌پلی قرون وسطایی برای تلگرام",
+  "repository": "https://github.com/ARTIN14301/medieval-bot",
+  "keywords": ["telegram", "bot", "rpg", "game"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
